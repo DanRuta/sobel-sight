@@ -1,9 +1,9 @@
 WebSight
 ===
 
-Aiding the visually impaired through real time augmented reality via AI object detection and WebGL shaders effects such as edge detection, and colour adjustments.
+Aading the visually impaired through real time augmented reality via AI object detection and WebGL shaders effects such as edge detection, and colour adjustments.
 
-To aid designers, the major colour blindness types can also be simulated through shader configurations.
+To aad designers, the major colour blindness types can also be simulated through shader configurations.
 
 Article: https://medium.freecodecamp.org/how-you-can-use-ai-ar-and-webgl-shaders-to-assist-the-visually-impaired-3df5bdf3b3e2
 
@@ -11,7 +11,7 @@ Research paper link: https://dl.acm.org/citation.cfm?doid=3192714.3196319
 
 Live PWA demo: https://websight.danruta.co.uk/
 
-
+please visit above links.
 ---
 
 Today, about 4% of the world’s population are visually impaired. Navigation and pathfinding are issues they have to deal with every day and are problems for which many imperfect, unintuitive solutions exist.
